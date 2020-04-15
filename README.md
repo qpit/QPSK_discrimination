@@ -1,2 +1,2 @@
 # QPSK_discrimination
-Source code for the theoretical simulation of Dolinar receiver
+Source code for the theoretical simulation of the feedback measurement with photon detection for QPSK discrimination.
